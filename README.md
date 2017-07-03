@@ -8,4 +8,4 @@ https://ru.wikipedia.org/wiki/Magic_8_ball
 
 Для запуска программы необходимо установить Ruby и запустить из командной строки:
 
-ruby 8ball.rb
+`ruby 8ball.rb`
